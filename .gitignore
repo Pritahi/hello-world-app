@@ -1,0 +1,15 @@
+# SYSTEM FILES - DO NOT PUSH
+mini-services/
+skills/
+agent-ctx/
+.zscripts/
+examples/
+download/
+Caddyfile
+node_modules/
+.env
+*.log
+.next/
+prisma/*.db
+*.db
+.DS_Store
